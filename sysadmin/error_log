@@ -1,0 +1,54 @@
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:37:35 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:37:52 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:37:52 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:38:18 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:38:18 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:38:22 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:38:22 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7
+[12-Oct-2020 12:39:33 Asia/Kolkata] PHP Notice:  Undefined index: catid in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 5
+[12-Oct-2020 12:39:33 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/h0529sdft5h8/public_html/sysadmin/getsub.php:7
+Stack trace:
+#0 /home/h0529sdft5h8/public_html/sysadmin/getsub.php(7): mysqli->query('select * from s...')
+#1 {main}
+  thrown in /home/h0529sdft5h8/public_html/sysadmin/getsub.php on line 7

@@ -1,0 +1,259 @@
+[16-Aug-2020 13:40:51 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[16-Aug-2020 13:42:22 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[16-Aug-2020 14:01:43 Asia/Kolkata] PHP Notice:  Undefined variable: c in /home/homofyin/public_html/store/api/feed.php on line 15
+[16-Aug-2020 14:18:20 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 14:18:20 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 15:31:25 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[16-Aug-2020 15:33:46 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 15:33:46 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 16:51:00 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[16-Aug-2020 16:55:06 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 16:55:06 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 19:22:37 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[16-Aug-2020 19:24:29 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 19:24:29 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 19:53:14 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[16-Aug-2020 20:27:11 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 20:27:11 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[16-Aug-2020 22:07:35 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/profile.php on line 37
+[16-Aug-2020 22:07:42 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/profile.php on line 37
+[17-Aug-2020 06:34:19 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 06:34:19 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 06:36:28 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 06:36:28 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 09:38:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 09:38:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 11:37:48 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[17-Aug-2020 11:38:36 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 11:38:36 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/homofyin/public_html/store/api/order.php on line 14
+[17-Aug-2020 17:06:02 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[18-Aug-2020 07:22:11 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[18-Aug-2020 07:27:23 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/homofyin/public_html/store/api/login.php on line 22
+[22-Aug-2020 23:20:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[22-Aug-2020 23:20:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[22-Aug-2020 23:20:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 17:48:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 19:51:58 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/code.php on line 3
+[24-Aug-2020 19:53:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 19:53:20 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 19:53:37 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 19:54:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 19:54:34 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[24-Aug-2020 19:55:09 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/code.php on line 3
+[24-Aug-2020 20:03:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 20:04:17 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 20:04:22 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 20:33:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 20:33:40 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 20:33:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 20:34:38 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 20:34:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 21:43:22 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 21:43:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 22:27:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 22:27:38 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[24-Aug-2020 22:28:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/code.php on line 3
+[24-Aug-2020 22:28:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/code.php on line 3
+[24-Aug-2020 22:28:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/profile.php on line 3
+[24-Aug-2020 22:29:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[24-Aug-2020 22:41:26 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 01:49:52 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[25-Aug-2020 01:49:59 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 13:31:17 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 13:31:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[25-Aug-2020 17:50:55 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[25-Aug-2020 17:53:27 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:53:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:54:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:54:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:54:16 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:54:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:54:39 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[25-Aug-2020 17:54:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[25-Aug-2020 17:55:20 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[25-Aug-2020 17:55:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[26-Aug-2020 01:00:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[26-Aug-2020 11:12:08 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 10:55:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 10:55:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 10:55:28 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 10:55:35 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 10:56:20 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 10:56:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 10:56:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 11:16:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 11:18:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 11:18:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 11:18:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 11:19:58 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[27-Aug-2020 11:20:34 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/area.php on line 3
+[27-Aug-2020 11:20:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[27-Aug-2020 16:41:15 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/code.php on line 3
+[27-Aug-2020 16:42:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 16:42:33 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 16:43:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 16:43:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 16:43:40 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[27-Aug-2020 16:43:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[27-Aug-2020 16:43:47 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[31-Aug-2020 22:32:46 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[31-Aug-2020 22:32:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[02-Sep-2020 06:35:32 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[02-Sep-2020 06:35:35 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[02-Sep-2020 06:51:17 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[02-Sep-2020 06:51:32 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[02-Sep-2020 06:51:40 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[02-Sep-2020 06:51:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[02-Sep-2020 11:39:49 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 11:39:54 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 11:47:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 11:47:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 22:02:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 22:02:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 22:02:49 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[02-Sep-2020 22:02:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[03-Sep-2020 09:16:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[03-Sep-2020 09:55:09 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[03-Sep-2020 09:55:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[03-Sep-2020 09:55:14 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[03-Sep-2020 09:55:46 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[03-Sep-2020 09:55:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[03-Sep-2020 11:16:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[03-Sep-2020 16:48:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[03-Sep-2020 18:57:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[03-Sep-2020 18:57:12 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[03-Sep-2020 18:59:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/code.php on line 3
+[03-Sep-2020 23:44:04 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[04-Sep-2020 00:55:55 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[04-Sep-2020 00:56:01 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[04-Sep-2020 00:56:39 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[04-Sep-2020 00:56:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[05-Sep-2020 14:17:02 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[05-Sep-2020 19:17:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[05-Sep-2020 19:17:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/paymentgateway.php on line 3
+[05-Sep-2020 19:17:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[05-Sep-2020 19:17:51 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[05-Sep-2020 19:17:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[05-Sep-2020 19:18:03 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[05-Sep-2020 19:18:31 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[05-Sep-2020 19:18:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[07-Sep-2020 07:39:13 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[07-Sep-2020 07:39:21 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[07-Sep-2020 12:27:03 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/cat.php on line 3
+[07-Sep-2020 12:31:22 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/maya/include/dbconfig.php:20) in /home/doors/projects.doorsstudio.com/maya/api/product.php on line 3
+[08-Sep-2020 16:26:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/pinktokri/include/dbconfig.php:14) in /home/doors/projects.doorsstudio.com/pinktokri/api/paymentgateway.php on line 3
+[08-Sep-2020 16:27:39 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/pinktokri/include/dbconfig.php:14) in /home/doors/projects.doorsstudio.com/pinktokri/api/paymentgateway.php on line 3
+[08-Sep-2020 16:30:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/pinktokri/include/dbconfig.php:14) in /home/doors/projects.doorsstudio.com/pinktokri/api/paymentgateway.php on line 3
+[08-Sep-2020 16:30:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/pinktokri/include/dbconfig.php:14) in /home/doors/projects.doorsstudio.com/pinktokri/api/paymentgateway.php on line 3
+[08-Sep-2020 16:30:56 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/doors/projects.doorsstudio.com/pinktokri/include/dbconfig.php:14) in /home/doors/projects.doorsstudio.com/pinktokri/api/paymentgateway.php on line 3
+[10-Sep-2020 11:17:46 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/h0529sdft5h8/public_html/sysadmin/api/login.php on line 22
+[10-Sep-2020 11:42:08 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/h0529sdft5h8/public_html/sysadmin/api/login.php on line 22
+[10-Sep-2020 11:43:11 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/order.php on line 14
+[10-Sep-2020 11:43:11 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /home/h0529sdft5h8/public_html/sysadmin/api/order.php on line 14
+[13-Sep-2020 09:22:45 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:22:45 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:22:45 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:23:07 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:23:07 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:23:07 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:23:10 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:23:10 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:23:10 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:25:15 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:25:15 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[13-Sep-2020 09:25:15 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[20-Sep-2020 21:17:42 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[20-Sep-2020 21:18:00 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[20-Sep-2020 21:18:06 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[20-Sep-2020 21:18:54 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[22-Sep-2020 19:24:14 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[22-Sep-2020 19:24:16 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[23-Sep-2020 23:41:21 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[23-Sep-2020 23:41:39 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[24-Sep-2020 13:06:16 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[24-Sep-2020 22:48:53 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/h0529sdft5h8/public_html/sysadmin/api/login.php on line 22
+[24-Sep-2020 22:50:45 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/h0529sdft5h8/public_html/sysadmin/api/login.php on line 22
+[24-Sep-2020 23:20:20 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/h0529sdft5h8/public_html/sysadmin/api/login.php on line 22
+[24-Sep-2020 23:24:16 Asia/Kolkata] PHP Notice:  Undefined index: area in /home/h0529sdft5h8/public_html/sysadmin/api/login.php on line 22
+[24-Sep-2020 23:45:13 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[24-Sep-2020 23:46:05 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[24-Sep-2020 23:46:28 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[24-Sep-2020 23:46:36 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[24-Sep-2020 23:46:49 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[24-Sep-2020 23:47:57 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[24-Sep-2020 23:48:17 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[25-Sep-2020 00:19:06 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 00:19:08 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 00:19:49 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 09:41:59 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[25-Sep-2020 12:24:20 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[25-Sep-2020 12:24:29 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[25-Sep-2020 14:51:37 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 18:24:16 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[25-Sep-2020 18:24:38 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[25-Sep-2020 18:26:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 18:26:20 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 18:26:31 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[25-Sep-2020 18:28:34 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 08:24:39 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 09:34:31 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[26-Sep-2020 09:38:44 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 10:46:49 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 11:10:30 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[26-Sep-2020 11:10:39 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[26-Sep-2020 11:11:11 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[26-Sep-2020 11:19:02 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 12:18:06 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 12:18:09 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 13:52:06 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 14:27:25 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 16:10:06 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[26-Sep-2020 16:10:23 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[26-Sep-2020 16:10:28 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/register.php on line 4
+[26-Sep-2020 16:13:04 Asia/Kolkata] PHP Notice:  Undefined index: uid in /home/h0529sdft5h8/public_html/sysadmin/api/home.php on line 6
+[26-Sep-2020 16:13:19 Asia/Kolkata] PHP Notice:  Undefined index: uid in /home/h0529sdft5h8/public_html/sysadmin/api/home.php on line 6
+[26-Sep-2020 16:14:50 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[26-Sep-2020 18:40:26 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[27-Sep-2020 12:25:58 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[27-Sep-2020 12:26:29 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[28-Sep-2020 08:48:56 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[28-Sep-2020 08:49:15 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[28-Sep-2020 19:33:56 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 09:02:03 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[29-Sep-2020 09:02:36 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[29-Sep-2020 17:34:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 17:35:10 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 17:36:19 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 17:36:21 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 17:36:45 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 17:37:08 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[29-Sep-2020 17:37:19 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[30-Sep-2020 09:05:32 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[30-Sep-2020 09:05:51 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[30-Sep-2020 19:31:30 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[30-Sep-2020 19:31:58 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[30-Sep-2020 22:32:30 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[30-Sep-2020 22:32:46 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[30-Sep-2020 22:35:37 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[30-Sep-2020 22:35:48 Asia/Kolkata] PHP Notice:  Undefined index: ccode in /home/h0529sdft5h8/public_html/sysadmin/api/forgot.php on line 4
+[01-Oct-2020 08:25:32 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[01-Oct-2020 08:25:47 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[01-Oct-2020 17:23:29 Asia/Kolkata] PHP Notice:  Undefined index: uid in /home/h0529sdft5h8/public_html/sysadmin/api/home.php on line 6
+[01-Oct-2020 17:24:36 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[03-Oct-2020 11:19:27 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[03-Oct-2020 20:57:50 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[03-Oct-2020 20:59:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[05-Oct-2020 11:17:21 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[05-Oct-2020 23:15:52 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[05-Oct-2020 23:26:49 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 10:31:30 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 10:31:49 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 10:33:34 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 10:33:47 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 10:34:00 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 18:53:45 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[06-Oct-2020 18:53:45 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[07-Oct-2020 10:39:31 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[07-Oct-2020 10:40:46 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[07-Oct-2020 10:41:43 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34
+[07-Oct-2020 10:42:18 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /home/h0529sdft5h8/public_html/sysadmin/api/product.php on line 34

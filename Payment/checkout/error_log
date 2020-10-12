@@ -1,0 +1,2 @@
+[08-Oct-2020 05:44:25 UTC] PHP Warning:  require(../../pinktokri/include/dbconfig.php): failed to open stream: No such file or directory in /home/h0529sdft5h8/public_html/Payment/checkout/config.php on line 2
+[08-Oct-2020 05:44:25 UTC] PHP Fatal error:  require(): Failed opening required '../../pinktokri/include/dbconfig.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/h0529sdft5h8/public_html/Payment/checkout/config.php on line 2
